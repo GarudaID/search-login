@@ -29,5 +29,8 @@ $ git clone https://github.com/GarudaID/search-login
 $ cd findlogin
 $ pip install -r requirement.txt
 $ pip install asyncio aiohttp time socket request
-$ python login.py
+$ python meow.py
 ```
+
+# [ ERROR CODE ]
+Please open <a href="https://github.com/GarudaID/search-login/issues/new">issues</a> on my github or contact my Discrod account `XiaoXiao#5925`

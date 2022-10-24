@@ -1,4 +1,5 @@
-# Findlogin-v.1.5-meowproject ![Visitor Count](https://camo.githubusercontent.com/b69e969500158d8cef615ee33731cad5633144db5a13ba089fa5f9c102146d29/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76656e61787974)
+### <p align="center"> [+] Tools Hacking - Find Login pages [+] </p>
+<h5 align='center'>If you are here, please leave a ⭐️ at <a href='https://github.com/GarudaID/search-login'>Search Login</a> ! Show your support! 👍🏻</h6>
 
 ```js
 <Quick Introduction>
@@ -7,15 +8,10 @@ This attack will usually work on websites that have the kcfinder extension.
 
 This script was made by myself without the intervention of others.!
 ```
-<p align="center"><br>
-  <a href="https://github.com/penucuriCode">
-    <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
-     </a>
-
-![alt text](https://img.shields.io/badge/Coded-penucuriCode-blue.svg)
-![alt text](https://img.shields.io/badge/Size-143.00KB-yellow.svg)
-![alt text](https://img.shields.io/badge/Python-3-green.svg)<br>
-![shot](https://github.com/pencuricode/findlogin/blob/main/img/result.PNG)
+<hr>
+<p align="center">
+<img src="https://github.com/GarudaID/search-login/blob/main/img/result.PNG", width="500", height="500">
+</p><br>
 
 
 # Find Login feature

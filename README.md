@@ -25,9 +25,9 @@ This script was made by myself without the intervention of others.!
 ```
 $ apt update upgrade
 $ apt install python3 git
-$ git clone https://github.com/SourCode-Z/Findlogin-v.1.5-meowproject-
+$ git clone https://github.com/GarudaID/search-login
 $ cd findlogin
 $ pip install -r requirement.txt
 $ pip install asyncio aiohttp time socket request
-$ python adfind.py
+$ python login.py
 ```
